@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Section renders correctly 1`] = `
+<div>
+  <div
+    class="ant-card ant-card-bordered mb-6 [&_.ant-card-body>:last-child]:mb-0"
+  >
+    <div
+      class="ant-card-body"
+    >
+      foo
+    </div>
+  </div>
+</div>
+`;
