@@ -9,7 +9,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "antd": "~5.13",
+    "antd": "~5.19",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
